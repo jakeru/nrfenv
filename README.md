@@ -1,10 +1,11 @@
 # Activate a nRF Connect toolchain environment
 
 This script activates a [nRF Connect SDK](https://github.com/nrfconnect/sdk-nrf)
-toolchain environment.
+toolchain environment. Initial version was written by Jakob Ruhe 2024 and a
+polished version was released early 2025.
 
-It was written by Jakob Ruhe late 2024. Feel free to say something if you find
-the script useful or if you have any suggestions for improvements!
+Feel free to say something if you find the script useful or if you have any
+suggestions for improvements!
 
 ## Installation
 
