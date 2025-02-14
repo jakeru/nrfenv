@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Written by Jakob Ruhe 2025
+# Source: https://github.com/jakeru/nrfenv
+
 import argparse
 import json
 import os
